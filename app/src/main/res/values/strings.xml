@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YamDB</string>
+    <string-array name="tables">
+        <item>Personal Info </item>
+        <item>Grades </item>
+    </string-array>
+
+</resources>
